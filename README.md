@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Local Development Requirements
+
+- Node v16.13.2
+- Npm v8.1.2
+- Axios (run `npm i axios` in package)
+
 ## Available Scripts
 
 In the project directory, you can run:
